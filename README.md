@@ -1,4 +1,4 @@
-#Lazel
+# Lazel
 Chrome extension that helps auto create Google Tasks and Calendar events using screenshots.
 
 
